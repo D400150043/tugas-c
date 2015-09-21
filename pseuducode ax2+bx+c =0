@@ -1,0 +1,11 @@
+start
+input a,b,c
+d=b*b-4*a*c
+if a==0
+output bukan persamaan kuadrat
+else
+d>0
+output x1=(-b+sqrt(d))-4*a*c/2*A
+else d==0
+output x1=b/2*a
+end
