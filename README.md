@@ -1,1 +1,1 @@
-# tugas-c
+# tugas-algoritma dan pemrograman
